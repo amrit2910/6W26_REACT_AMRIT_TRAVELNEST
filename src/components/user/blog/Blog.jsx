@@ -10,7 +10,7 @@ export default function Blog(){
           <a href="index.html">Home</a>
         </li>
         <li className="breadcrumb-item">
-          <a href="#">Pages</a>
+          <a href="#">Pages88</a>
         </li>
         <li className="breadcrumb-item active text-white">Blog</li>
       </ol>
